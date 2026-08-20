@@ -1,0 +1,21 @@
+{
+  "name": "eventregistration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srinidhi-052006/EventRegistration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srinidhi-052006/EventRegistration/issues"
+  },
+  "homepage": "https://github.com/Srinidhi-052006/EventRegistration#readme"
+}
