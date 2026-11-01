@@ -1,0 +1,23 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building the Event Registration application'
+            }
+        }
+
+        stage('Test') {
+            steps {
+                echo 'Testing the Event Registration application'
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                echo 'Event Registration deployment completed'
+            }
+        }
+    }
+}
